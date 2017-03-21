@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">涂鸦板Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_choose">choose</string>
+    <string name="menu_clear">clear</string>
+    <string name="menu_pen">pen</string>
+    <string name="menu_undo">undo</string>
+    <string name="menu_redo">redo</string>
+    <string name="menu_save">save</string>
+    
+    <string name="dialog_color_picker">颜色选取器</string>
+    <string name="press_color_to_apply">在正方形区域选择颜色</string>
+   
+
+</resources>

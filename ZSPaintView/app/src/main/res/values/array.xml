@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="paint_spinner">
+        <item >blur_paint</item>
+        <item >emboss_paint</item>
+        <item >normal_paint</item>
+    </string-array>
+</resources>
